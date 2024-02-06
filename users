@@ -1,15 +1,20 @@
 [
     {
       "name": "John Doe",
-      "age": 25
+      "age": 25,
+      "image" :"https://drive.google.com/file/d/1iP5taVuXqfB98NacQ3Lcxky-k53BsWSs/view?usp=sharing"
     },
     {
       "name": "Jane Smith",
-      "age": 30
+      "age": 30,
+      "image" :"https://drive.google.com/file/d/1iP5taVuXqfB98NacQ3Lcxky-k53BsWSs/view?usp=sharing"
+
     },
     {
       "name": "Bob Johnson",
-      "age": 22
+      "age": 22,
+      "image" :"https://drive.google.com/file/d/1iP5taVuXqfB98NacQ3Lcxky-k53BsWSs/view?usp=sharing"
+
     }
   ]
   

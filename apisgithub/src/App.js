@@ -21,10 +21,12 @@ function App() {
   return (
     <div className="App">
        <>
-       
             {data.length > 0 ? (
                 data.map((d, index) => (
+                
                     <div key={index}>
+                      <img src={d.image}/>
+                      
                       {d.name}{'   '}{d.age}
                     </div>
                 ))
