@@ -25,7 +25,7 @@ function App() {
                 data.map((d, index) => (
                 
                     <div key={index}>
-                      <img src={d.image}/>
+                      <img src={d.image} alt='test'/>
                       
                       {d.name}{'   '}{d.age}
                     </div>

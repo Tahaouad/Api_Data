@@ -2,18 +2,18 @@
     {
       "name": "John Doe",
       "age": 25,
-      "image" :"https://drive.google.com/file/d/1iP5taVuXqfB98NacQ3Lcxky-k53BsWSs/view?usp=sharing"
+      "image": "https://drive.google.com/uc?export=download&id=1iP5taVuXqfB98NacQ3Lcxky-k53BsWSs"
     },
     {
       "name": "Jane Smith",
       "age": 30,
-      "image" :"https://drive.google.com/file/d/1iP5taVuXqfB98NacQ3Lcxky-k53BsWSs/view?usp=sharing"
+      "image": "https://drive.google.com/uc?export=download&id=1iP5taVuXqfB98NacQ3Lcxky-k53BsWSs"
 
     },
     {
       "name": "Bob Johnson",
       "age": 22,
-      "image" :"https://drive.google.com/file/d/1iP5taVuXqfB98NacQ3Lcxky-k53BsWSs/view?usp=sharing"
+      "image": "https://drive.google.com/uc?export=download&id=1iP5taVuXqfB98NacQ3Lcxky-k53BsWSs"
 
     }
   ]
